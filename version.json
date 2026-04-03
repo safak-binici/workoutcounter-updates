@@ -1,7 +1,7 @@
 {
   "latest": "v1.0.1",
   "mandatory": false,
-  "release_notes": "Initial release",
+  "release_notes": "API Key Security Update",
   "installer_url": "https://github.com/safak-binici/workoutcounter-updates/releases/download/v1.0.0/WorkoutCounter_Setup.exe",
   "installer_size_mb": 307.38,
   "checksum_sha256": "7F056557D0DACCDB40DD65AC1BD064A8FCFB22341D09162B90199B71818C1B98"
