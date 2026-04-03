@@ -1,5 +1,5 @@
 {
-  "latest": "v1.0.1",
+  "latest": "v1.0.1.1",
   "mandatory": false,
   "release_notes": "API Key Security Update",
   "installer_url": "https://github.com/safak-binici/workoutcounter-updates/releases/download/v1.0.1/WorkoutCounter_Setup.exe",
