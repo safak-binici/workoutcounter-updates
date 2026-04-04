@@ -1,8 +1,8 @@
 {
-  "latest": "1.0.2",
+  "latest": "1.0.3",
   "mandatory": false,
   "release_notes": "Misc. techical issues are resolved.",
-  "installer_url": "https://github.com/safak-binici/workoutcounter-updates/releases/download/1.0.2/WorkoutCounterSetup.exe",
+  "installer_url": "https://github.com/safak-binici/workoutcounter-updates/releases/download/1.0.3/WorkoutCounterSetup.exe",
   "installer_size_mb": 128.67,
-  "checksum_sha256": "5674213CA1CDC16F4D735020D13D78E6F564F28A6F606F85EC8245E42587BA82"
+  "checksum_sha256": "E3834F8B33317D80C4EE526C1EFF8F41157AD0F78D4B5D3A00369949CF82B5BC"
 }
