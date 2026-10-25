@@ -1,8 +1,8 @@
 {
-  "latest": "1.0.5",
+  "latest": "1.0.6",
   "mandatory": false,
-  "release_notes": "Şimdi yan yanayız. Seni seviyorum.",
-  "installer_url": "https://github.com/safak-binici/workoutcounter-updates/releases/download/1.0.5/WorkoutCounterSetup.exe",
-  "installer_size_mb": 513.63,
-  "checksum_sha256": "261D39C2CB4822060500BF570AA09FA179C0F293D8929B99ACA01C86BDB2CF15"
+  "release_notes": "Zamanlı egzersizler artık doğru kaydediliyor; mevcut kayıtlar açılışta otomatik onarılıyor. Yeni egzersiz türü ekranı. Kamera ve ses yardımcıları (pose_counter, speak_habit) artık kuruluma dahil.",
+  "installer_url": "https://github.com/safak-binici/workoutcounter-updates/releases/download/1.0.6/WorkoutCounterSetup.exe",
+  "installer_size_mb": 649.41,
+  "checksum_sha256": "85415A4738ABA4B1D3525E447D6FE28F83FB395A58BD849B576B654F94494A2B"
 }
