@@ -1,8 +1,8 @@
 {
-  "latest": "1.0.6",
+  "latest": "1.0.7",
   "mandatory": false,
-  "release_notes": "Zamanlı egzersizler artık doğru kaydediliyor; mevcut kayıtlar açılışta otomatik onarılıyor. Yeni egzersiz türü ekranı. Kamera ve ses yardımcıları (pose_counter, speak_habit) artık kuruluma dahil.",
-  "installer_url": "https://github.com/safak-binici/workoutcounter-updates/releases/download/1.0.6/WorkoutCounterSetup.exe",
-  "installer_size_mb": 649.41,
-  "checksum_sha256": "85415A4738ABA4B1D3525E447D6FE28F83FB395A58BD849B576B654F94494A2B"
+  "release_notes": "Avatar modu: \"Kamerayı Göster\" kapalıyken hareketiniz, kamera görüntüsü yerine parlayan bir figür olarak çizilir. Tekrar sayımı yine kameradan gelir, görüntünüz ekrana hiç gelmez. Kamera anahtarı artık gerçekten çalışıyor.",
+  "installer_url": "https://github.com/safak-binici/workoutcounter-updates/releases/download/1.0.7/WorkoutCounterSetup.exe",
+  "installer_size_mb": 650.29,
+  "checksum_sha256": "9FC2182BE77CE7ABFBFE0C8DE4D76293DBE652EB388CB3692EC3ACE79E9B94A6"
 }
